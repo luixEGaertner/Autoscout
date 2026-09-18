@@ -1,0 +1,15 @@
+{
+  "perfil_nome": "equilibrado_diario",
+  "versao": "1.0",
+  "pesos": {
+    "conforto": 0.20,
+    "economia": 0.18,
+    "seguranca": 0.15,
+    "manutencao": 0.12,
+    "pecas": 0.10,
+    "confiabilidade": 0.10,
+    "tecnologia": 0.07,
+    "motor": 0.05,
+    "estetica": 0.03
+  }
+}
